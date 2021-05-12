@@ -1,0 +1,54 @@
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (1)\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Individuální úkol, jaro 2021 (2)\Individuální úkol, jaro 2021\Individuální úkol, jaro 2021\Individuální projekt, jaro 2021\Individuální projekt, jaro 2021\bin\Debug\klienti.txt
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\bin\Debug\klienti.txt
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\klienti.txt
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz (1)\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\klienti.txt
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\Ladili\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\klienti.txt
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe.config
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\bin\Debug\Individuální projekt, jaro 2021.pdb
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csprojAssemblyReference.cache
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.csproj.CoreCompileInputs.cache
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.exe
+C:\Users\tl-smidova\Desktop\Aplikace-pro-fitness-cz\Aplikace-pro-fitness-cz\Individuální projekt, jaro 2021\obj\Debug\Individuální projekt, jaro 2021.pdb
